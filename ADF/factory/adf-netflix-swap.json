@@ -1,0 +1,9 @@
+{
+	"name": "adf-netflix-swap",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eec44a10-04f5-4376-bc13-c54521331203",
+		"tenantId": "1b9184b9-e785-4727-a33d-f9526fe07006"
+	}
+}
